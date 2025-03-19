@@ -1,0 +1,6 @@
+<k-div class="page">
+  <k-header class="title">
+    {{title}} 
+    <k-span class="color-word">{{colorWord}}</k-span>
+  </k-header>
+</k-div>
